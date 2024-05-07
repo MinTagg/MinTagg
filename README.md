@@ -1,7 +1,7 @@
 ### <div align="center">I'm MintaekOh, 📚studying AI at KAIST, S.Korea since 2024.</div>  
   
 
-- 🏎️ I earned BA in Automotive engineering at Kookmin Univ, S.Korea at 2023.  
+- 🏎️ I learned BA in Automotive engineering at Kookmin Univ, S.Korea at 2023.  
   
 
 <br/>  
