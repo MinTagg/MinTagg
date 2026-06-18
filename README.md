@@ -1,7 +1,10 @@
 ### <div align="center">I'm MintaekOh, 📚studying AI at KAIST, S.Korea since 2024.</div>  
   
 
-- 🏎️ I learned B.S. in Automotive engineering at Kookmin Univ, S.Korea at 2023.  
+* 🏎️ 2018–2024: Earned a B.S. in Automotive Engineering from Kookmin University, South Korea
+* 🧠 2024–2026: Conducted LLM research at the KAIST School of Computing
+* 📊 2026–Present: Working as a Data Scientist and LLM Agent Researcher at KT (Korea Telecom)
+
   
 
 <br/>  
